@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="284px" height="166px" viewBox="0 0 284 166" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>shape1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="9.71913854%" id="linearGradient-1">
+            <stop stop-color="#1D8CFF" offset="0%"></stop>
+            <stop stop-color="#197CE6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.129472373">
+        <g id="v2-Home-Draft-Desktop" fill="url(#linearGradient-1)">
+            <g id="Group-15">
+                <path d="M661.453205,166 L661.453205,-598.788702 L857.047916,-598.788702 C958.592736,-598.788702 982.932136,-657.543595 911.128037,-729.347694 L139.771711,-1500.69446 C110.030991,-1530.43518 61.3617495,-1530.43518 31.6210288,-1500.69446 L-739.735297,-729.347694 C-811.539396,-657.543595 -787.199996,-598.788702 -685.655176,-598.788702 L-485.729849,-598.788702 L-485.729849,166" id="shape1" transform="translate(85.696370, -678.500000) scale(1, -1) translate(-85.696370, 678.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
